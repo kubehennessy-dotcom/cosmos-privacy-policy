@@ -1,0 +1,27 @@
+PRIVACY POLICY
+A2 Local Dev Build
+Effective November 1, 2026
+
+OVERVIEW
+This is a personal, non-commercial development build used only for local testing on the developer's own device. It is not distributed to other users and is not available on any public store listing.
+
+WHAT WE COLLECT
+The app reads the signed-in Meta/Oculus account's User ID through the standard Oculus Platform SDK, solely to identify the account on-device during sign-in. No other personal data is collected by this build.
+
+HOW IT'S USED
+- The User ID is used locally, on-device, to complete the app's normal sign-in flow.
+- It is not combined with any other personal data, profiled, or used for advertising or analytics.
+
+SHARING
+This data is not shared with any third party, service provider, or external server. The app communicates only with infrastructure the developer operates for local testing.
+
+RETENTION
+The User ID is held only for the duration of the local session and is not persisted to any external database.
+
+YOUR RIGHTS
+Since this build is only ever run by its own developer, on their own device, there is no separate end-user population to request access, correction, or deletion. Any questions can be directed to the contact below.
+
+CONTACT
+hennessymediagroup@gmail.com
+
+This policy applies only to this personal development build and may be updated as the project evolves.
